@@ -24,11 +24,9 @@ form {
   display: flex;
   flex-direction: column;
   align-items: center;
-  /* max-width:95%; */
 }
 
 img {
-  /* object-fit: contain; */
   max-width: 100%;
 }
 
